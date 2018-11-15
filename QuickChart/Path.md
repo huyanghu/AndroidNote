@@ -22,10 +22,3 @@ rXxx方法        | rMoveTo, rLineTo, rQuadTo, rCubicTo | **不带r的方法是�
 重置路径        | reset, rewind   | 清除Path中的内容<br/> **reset不保留内部数据结构，但会保留FillType.**<br/> **rewind会保留内部的数据结构，但不保留FillType**
 矩阵操作        | transform       | 矩阵变换
 
-## 相关文章
-
-* [Path基本操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B5%5DPath_Basic.md)
-* [贝塞尔曲线](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B6%5DPath_Bezier.md)
-* [Path完结篇(伪)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B7%5DPath_Over.md)
-* [Path玩出花样](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B8%5DPath_Play.md)
-

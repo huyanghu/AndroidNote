@@ -4,8 +4,6 @@
 
 ## 前言
 
-### 这是Windows平台设置教程，Mac平台戳这里：<a href="https://github.com/GcsSloop/AndroidNote/blob/master/Course/HowToUsePlantUMLInAS(Mac).md">在AndroidStudio中使用PlantUML(Mac)</a>
-
 **Unified Modeling Language (UML)又称统一建模语言或标准建模语言，用来描述 类（对象的）、对象、关联、职责、行为、接口、用例、包、顺序、协作，以及状态。是用来帮助自己理清众多类之间复杂关系的不二利器，也能帮助别人快速理解你的设计思路。**
 
 那么，我们怎么在AndroidStudio中创建自己的UML类图呢？接下来我就教大家如何用正确的姿势创建UML类图。
@@ -51,7 +49,7 @@
 
 ## About Me
 ### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
-<a href="https://github.com/GcsSloop/AndroidNote/blob/magic-world/FINDME.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
+<a href="https://github.com/GcsSloop/SloopBlog/blob/master/FINDME.md" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1qn89ihu3j315o0dwwjc.jpg" width=300 height=100 /> </a>
 
 
 
